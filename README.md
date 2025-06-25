@@ -15,3 +15,4 @@ PriWiper is a powerful tool designed for Windows systems that offers various fea
 1. Clone this repository or download the script.
 2. Run the script in your Windows environment.
 
+![PrivateWiper](https://github.com/rootzombies/PrivateWiper/blob/main/priwiper.png)
